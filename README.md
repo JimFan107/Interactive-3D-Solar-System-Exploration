@@ -1,7 +1,7 @@
 # Interactive 3D Solar System Exploration 🌌
 
 An immersive, interactive 3D visualization of our solar system built with Three.js. This web-based application allows users to explore the solar system, learn about different planets, and interact with celestial bodies in real-time.
-
+ 
 ## ✨ Features
 
 - **Interactive 3D Environment**: Fully navigable 3D space with realistic planetary orbits
