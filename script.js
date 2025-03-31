@@ -631,7 +631,7 @@
 							name: "Moon",
 							description: "The Moon is Earth's only natural satellite, with a diameter about one-quarter of Earth's, making it the largest natural satellite relative to its planet in the Solar System.",
 							radius: 1737.10 / 2,
-							orbitalDistance: 38e4,
+							orbitalDistance: 38e3,
 							orbitalPeriod: 27.3,
 							rotationPeriod: 0,
 							tilt: 6.687,
