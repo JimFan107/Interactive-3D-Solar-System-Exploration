@@ -236,9 +236,7 @@
 			return;
 		}
 
-		gl.clearColor(0, 0, 0, 1);
 		gl.enable(gl.DEPTH_TEST);
-
 		return gl;
 	};
 
